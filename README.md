@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **🌱 I’m currently learning : Spring Boot, Microservices, React.js, Cloud Technologies**
 
-- 💬 Ask me about **💬 Ask me about : Java, Spring Boot, React.js, Vue.js, GSAP**
+- 💬 Ask me about **💬 Ask me about : Java, Spring Boot, React.js, Vue.js, **
 
 - 📫 How to reach me **📫 How to reach me : https://www.linkedin.com/in/chandrikasuthapilli-53852231a/**
 
